@@ -1,0 +1,26 @@
+<meta charset="UTF-8">
+<script>
+
+    function pulaLinha() {
+
+        document.write("<br>");
+    }
+
+    function mostra(frase) {
+
+        document.write(frase);
+        pulaLinha();
+    }
+
+    var sorteia = Math.round(Math.random() * 50);
+
+    var chute = parseInt(prompt("Já pensei. Qual você acha que é?"));
+
+    if(chute == sorteia) {
+
+        mostra("Uau! Você acertou, pois eu pensei no " + sorteia);
+    } else {
+
+        mostra("Você errou! Eu tinha pensado no " + sorteia);
+    }
+</script>

@@ -1,0 +1,39 @@
+<meta charset = "UTF-8">
+
+<script>
+
+function pulaLinha() {
+    
+    document.write("<br>")
+}
+
+function mostrar() {
+
+    document.write(frase)
+   
+    }
+}
+
+var minhaIdade = 17;
+var idadeirmao = 8;
+
+mostrar ("Nossa diferença de idade é: + (minhaIdade - idadeirmao));
+pulaLinha();
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>

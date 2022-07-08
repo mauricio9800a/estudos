@@ -1,0 +1,35 @@
+
+.cocafoto {
+    position:absolute;
+    width:50%;
+    top:0;
+    left:0;
+    background:blue;
+ 
+}
+
+.login {
+    position:absolute;
+    top:-500px;
+    right:5px;
+   
+}
+
+div{
+    position:absolute;
+    top:300px;
+    right:200px;
+    text-align:center;
+}
+
+#nomeusuario {
+    position:absolute;
+    top:150px;
+
+
+}
+
+#senhausuario {
+    position:absolute;
+}
+    
