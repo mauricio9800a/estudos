@@ -1,0 +1,62 @@
+header, logo-pagina {
+    display: inline-block;
+    justify-content: start;
+    backgrounD:white;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+    margin-top:80px;
+    float:center;
+    margin-top:-125px;
+}
+
+.msg-inicial {
+    margin-top:300px;
+    margin-left:50px;
+    font-family: 'Cinzel', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-size:20px;
+}
+
+.msg-inicialdois {
+    margin-left:50px;
+    font-family: 'Cinzel', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-size:20px;
+}
+
+.lista-site {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    margin-top: 70px;
+    margin-left:30px;
+    font-size:20px;
+}
+
+.video-site {
+   text-align:center;
+   margin-top:200px;
+   margin-left:600px;
+   padding:8px;
+   background:blue;
+}
+
+.msg-importante {
+    margin-top:150px;
+}
+
+.msg-importante:hover {
+    background:orange;
+}
+
+footer, logo-rodape {
+    margin-top:150px;
+    display:inline-block;
+    background:yellow;
+    text-align:center;
+    
+}
