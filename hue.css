@@ -1,0 +1,17 @@
+div, img {
+    display:flex;
+    justify-content:start;
+    background:blue;
+}
+
+.titulo-pagina {
+    font-weight:bold;
+    font-style:italic;
+    display:flex;
+    justify-content:end;
+}
+
+form {
+    display:flex;
+    justify-content:end;
+}
