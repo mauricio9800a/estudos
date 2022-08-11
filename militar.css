@@ -1,0 +1,19 @@
+#cabecalho {
+    background-color:gray;
+}
+
+#titulo-cabecalho {
+    display:grid;
+    font-family: 'Cinzel', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-size:50px;
+    background-color:yellow;
+    color:brown;
+}
+
+.informacao-principal {
+    font-size:22px;
+    text-align:center;
+    padding:30px;
+}
